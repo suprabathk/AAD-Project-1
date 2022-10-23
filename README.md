@@ -6,5 +6,6 @@ You are encouraged to play with the code try different colours, Images, Layouts 
 
 Feel free to contact us if you find trouble in building the application. 
 
-APK of this project are shared in the Releases tab. 
+APK of this project are shared in the Releases tab.  
+
 Happy Coding!! 
